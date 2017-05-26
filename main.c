@@ -2,8 +2,8 @@
 //  main.c
 //  study
 //
-//  Created by 加藤空知 on 2017/05/01.
-//  Copyright © 2017年 加藤空知. All rights reserved.
+//  Created by Israibi on 2017/05/01.
+//  Copyright © 2017年 Isaribi. All rights reserved.
 //
 
 #include <stdio.h>
